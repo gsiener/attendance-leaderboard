@@ -13,7 +13,7 @@ Every practice and game is worth points. Points accumulate over the season. The 
 | Attend, on time or early | 1.0 |
 | Attend early (before start time) | 1.1 |
 | Attend, very late (15+ minutes) | 0.7 |
-| Absent, notified in advance | 0.3 |
+| Absent, notified in advance | 0.5 |
 | Absent, no notice | 0.0 |
 
 ## Definitions
@@ -47,5 +47,5 @@ The leaderboard is updated at the coaches' discretion and may be updated after a
 
 - **Showing up is the most important thing.** That's why it's worth a full point.
 - **Being early matters.** It shows commitment and gives the team more time together.
-- **Communication matters.** Life happens — we get it. But letting us know you can't make it shows respect for the team. That's worth something (0.3), even if it's not the same as being there.
+- **Communication matters.** Life happens — we get it. But letting us know you can't make it shows respect for the team. That's worth something (0.5), even if it's not the same as being there.
 - **No-shows with no notice earn nothing.** The team can't plan around you if you don't communicate.
