@@ -13,11 +13,12 @@ Every practice and game is worth points. Points accumulate over the season. The 
 | Attend, on time | 1.0 |
 | RSVP bonus (confirmed attendance in advance) | +0.2 |
 | Early arrival bonus (before start time) | +0.1 |
+| Buddy bonus (both you and your buddy attend) | +0.2 |
 | Attend, very late (15+ minutes) | 0.7 |
 | Absent, notified in advance | 0.5 |
 | Absent, no notice | 0.0 |
 
-Bonuses stack. A player who RSVPs, shows up, and arrives early earns **1.3 points**.
+Bonuses stack. A player who RSVPs, arrives early, and whose buddy is also there earns **1.5 points**.
 
 ## Definitions
 
@@ -26,6 +27,8 @@ Bonuses stack. A player who RSVPs, shows up, and arrives early earns **1.3 point
 **Early**: Arrive before the scheduled start time. This earns a +0.1 bonus on top of the standard 1.0.
 
 **RSVP'd**: Confirmed you'd attend with a coach before the event — and then showed up. This earns a +0.2 bonus whether you arrive early, on time, or late. RSVPing "no" counts the same as notifying in advance (0.5).
+
+**Buddy bonus**: Each player is assigned a buddy by the coaches. When both you and your buddy attend the same event, you each earn +0.2. It takes two — if your buddy doesn't show, neither of you gets the bonus.
 
 **Very late**: Arrive 15 or more minutes after the scheduled start time. You still get credit for showing up, but at a reduced rate.
 
@@ -53,5 +56,6 @@ The leaderboard is updated at the coaches' discretion and may be updated after a
 - **Showing up is the most important thing.** That's why it's worth a full point.
 - **Being early matters.** It shows commitment and gives the team more time together.
 - **RSVPing matters.** Knowing who's coming helps coaches plan. Confirming in advance earns a bonus whether you're early, on time, or even late.
+- **Buddies keep each other accountable.** You earn more when your buddy shows up too — so check in on each other.
 - **Communication matters.** Life happens — we get it. But letting us know you can't make it shows respect for the team. That's worth something (0.5), even if it's not the same as being there.
 - **No-shows with no notice earn nothing.** The team can't plan around you if you don't communicate.
