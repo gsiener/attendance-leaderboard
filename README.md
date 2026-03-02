@@ -25,7 +25,7 @@ Bonuses stack. A player who RSVPs, shows up, and arrives early earns **1.3 point
 
 **Early**: Arrive before the scheduled start time. This earns a +0.1 bonus on top of the standard 1.0.
 
-**RSVP'd**: Confirmed attendance with a coach before the event. This earns a +0.2 bonus. The RSVP bonus applies to any attended event — on time, early, or late.
+**RSVP'd**: Confirmed you'd attend with a coach before the event — and then showed up. This earns a +0.2 bonus whether you arrive early, on time, or late. RSVPing "no" counts the same as notifying in advance (0.5).
 
 **Very late**: Arrive 15 or more minutes after the scheduled start time. You still get credit for showing up, but at a reduced rate.
 
